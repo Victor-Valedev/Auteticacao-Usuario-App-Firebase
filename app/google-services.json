@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218857848670",
+    "project_id": "projeto-ifood-e1c1a",
+    "storage_bucket": "projeto-ifood-e1c1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218857848670:android:40469ef83fd8caf140d9cf",
+        "android_client_info": {
+          "package_name": "com.victor.ifoodautenticacao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1EFOumGri5VhoeOjGz2vvM6anvh-JflE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
